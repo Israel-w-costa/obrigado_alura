@@ -1,5 +1,5 @@
 # obrigado_alura
-Projeto proprio para agradecer pelo todo conhecimento adquirido pela instituição Alura cursos.
+My personal project to express my thankfull for all the knowledge i received in the Alura courses
 
 # How to start?
 
